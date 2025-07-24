@@ -1,6 +1,4 @@
-
-
-
+// card data is rendering here
 export default function FoodCard({foodData}){
 
     return(
